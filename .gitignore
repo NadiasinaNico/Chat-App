@@ -1,0 +1,8 @@
+/build
+/jar
+/.gradle
+/.idea
+*.iml
+.env
+out
+/node_modules
